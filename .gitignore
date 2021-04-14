@@ -1,3 +1,4 @@
 .vscode
 myflasky
 __pycache__
+*.sqlite
